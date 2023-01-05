@@ -1,0 +1,15 @@
+Este es un bot de Discord que utiliza la API de Spotify para permitir a los usuarios buscar y reproducir canciones en el servidor.
+
+Para utilizar el bot, primero debes tener una cuenta de Discord y haber creado un servidor y un canal en el que desees que el bot interactúe. Luego, debes tener una cuenta de Spotify y obtener un token de acceso para poder utilizar la API de Spotify.
+
+Una vez que hayas configurado tu entorno, puedes utilizar el siguiente comando para reproducir una canción en el servidor:
+
+
+/play NOMBRE DE LA CANCIÓN
+
+
+Por ejemplo, si quieres reproducir la canción "Bohemian Rhapsody" de Queen, simplemente envía el mensaje /play Bohemian Rhapsody en el canal de texto del servidor. El bot buscará la canción en Spotify y la reproducirá en el canal de voz al que estés unido.
+
+Este es solo un ejemplo de lo que puedes hacer con este bot. Si deseas agregar más funcionalidades, puedes modificar el código fuente y utilizar la biblioteca discord.js y la API de Spotify para implementar otras funcionalidades, como reproducir listas de reproducción completas, buscar artistas o álbumes en lugar de canciones individuales, y mucho más.
+
+Espero que este bot te sea útil y disfrutes utilizándolo en tu servidor de Discord. Si tienes alguna pregunta o necesitas ayuda, no dudes en preguntar.
